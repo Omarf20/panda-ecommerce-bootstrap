@@ -1,0 +1,20 @@
+.panda-bg-color{
+    background-color: #fceae8;
+}
+.categories{
+    padding-inline: 50px;
+}
+.price{
+    color: #ff428d;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    background-color: #ff428d;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    cursor: pointer;
+}
